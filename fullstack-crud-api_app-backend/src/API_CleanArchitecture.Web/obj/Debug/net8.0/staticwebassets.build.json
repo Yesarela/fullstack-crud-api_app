@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "wsh1wrR+rmOGWwjisOiOWqXHIZl8Dl2AIbrJwfoCv7w=",
+  "Source": "API_CleanArchitecture.Web",
+  "BasePath": "_content/API_CleanArchitecture.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API_CleanArchitecture.Web\\wwwroot",
+      "Source": "API_CleanArchitecture.Web",
+      "ContentRoot": "C:\\Users\\Hypernova Labs\\Documents\\crud-customer-test-backend\\src\\API_CleanArchitecture.Web\\wwwroot\\",
+      "BasePath": "_content/API_CleanArchitecture.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Hypernova Labs\\Documents\\crud-customer-test-backend\\src\\API_CleanArchitecture.Web\\wwwroot\\.gitkeep",
+      "SourceId": "API_CleanArchitecture.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hypernova Labs\\Documents\\crud-customer-test-backend\\src\\API_CleanArchitecture.Web\\wwwroot\\",
+      "BasePath": "_content/API_CleanArchitecture.Web",
+      "RelativePath": ".gitkeep",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\.gitkeep"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "API_CleanArchitecture.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Hypernova Labs\\Documents\\crud-customer-test-backend\\src\\API_CleanArchitecture.Core",
+  "API_CleanArchitecture.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Hypernova Labs\\Documents\\crud-customer-test-backend\\src\\API_CleanArchitecture.Infrastructure",
+  "API_CleanArchitecture.UseCases, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Hypernova Labs\\Documents\\crud-customer-test-backend\\src\\API_CleanArchitecture.UseCases",
+  "API_CleanArchitecture.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Hypernova Labs\\Documents\\crud-customer-test-backend\\src\\API_CleanArchitecture.Web"
+}

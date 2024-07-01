@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "+f6iBvPMFe4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hypernova Labs\\Documents\\crud-customer-test-backend\\src\\API_CleanArchitecture.Core\\API_CleanArchitecture.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hypernova Labs\\.nuget\\packages\\ardalis.guardclauses\\4.5.0\\ardalis.guardclauses.4.5.0.nupkg.sha512",
+    "C:\\Users\\Hypernova Labs\\.nuget\\packages\\ardalis.result\\8.0.0\\ardalis.result.8.0.0.nupkg.sha512",
+    "C:\\Users\\Hypernova Labs\\.nuget\\packages\\ardalis.sharedkernel\\1.4.0\\ardalis.sharedkernel.1.4.0.nupkg.sha512",
+    "C:\\Users\\Hypernova Labs\\.nuget\\packages\\ardalis.smartenum\\8.0.0\\ardalis.smartenum.8.0.0.nupkg.sha512",
+    "C:\\Users\\Hypernova Labs\\.nuget\\packages\\ardalis.specification\\8.0.0\\ardalis.specification.8.0.0.nupkg.sha512",
+    "C:\\Users\\Hypernova Labs\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Hypernova Labs\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Hypernova Labs\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Hypernova Labs\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Hypernova Labs\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\Hypernova Labs\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Hypernova Labs\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
